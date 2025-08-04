@@ -1,4 +1,5 @@
 # Text_Based_Turn-Based_Game_V1
 # Game version 1
-# This is the first verison of the game
-# It uses simple loops and if statements
+
+# The game is still a work in progress
+# Some of it is still a bit buggy but let me know if you find any
